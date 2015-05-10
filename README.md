@@ -5,6 +5,10 @@
 
 A Bootstrap based theme for [Sentora](http://sentora.org/).
 
+## Demo
+
+Check out this theme on the [Sentora demo](http://sentora.ga).
+
 ##installing S-Type theme
 
 ###To install this theme in Sentora:
