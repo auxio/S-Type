@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Sentora &gt; <# ui_tpl_username #></title>
+		<title>Sentora &gt; <# ui_tpl_username #> - <# ui_tpl_domainname #></title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link href="<# ui_tpl_assetfolderpath #>global-css/bootstrap.min.css" rel = "stylesheet">
