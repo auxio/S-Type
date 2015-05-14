@@ -1,0 +1,47 @@
+@import url("default.css");
+
+
+/* change the background color to fit your company logo/branding. */
+body{
+	background-color: #FF0000;
+}
+
+
+/* 
+To re-brand this theme you only need to place your logos in to the "/etc/sentora/panel/etc/styles/S-Type/img/logos/" directory and change the png names below.
+You need 2 logos in the sizes: 165x40 and a scale down version 116x28 of which is 70% scaled down.
+*//* 165px x 40px logo */
+.st-top-branding {
+   content:url(../img/logos/dummy_logo.png) !important; 
+}
+/* 116px x 28px logo */
+@media (max-width: 991px){
+	.st-top-branding{
+		content:url(../img/logos/dummy_logo_small.png) !important; 
+		margin-top: -3px;
+	}
+	
+}
+/* or use the following downscaling (instead of the 116px x 28px logo, NIET BOTH!), this is not as pretty as an smaller image.. 
+@media (max-width: 991px){
+	.st-top-branding{
+		-webkit-transform: scale(0.7, 0.7);
+		-ms-transform: scale(0.7, 0.7);
+			transform: scale(0.7, 0.7);
+	}
+	
+}	
+*/
+	
+	
+	
+/* You can add an copyright of something else to the bottom of the page. (sorry no special chars of html (jet?).. )*/
+/* alternatively you can/may also edit the st-copyright div at approximately line 249.. */
+.st-copyright span {
+  display: none;
+}
+.st-copyright:after { 
+  content: '(c) copyright 2015 SomeLogo'; 
+  line-height: initial;
+}
+

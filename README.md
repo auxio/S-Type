@@ -1,5 +1,7 @@
 # S-Type Theme
-* Version: 0.0.2 ALPHA 
+* Version: 0.0.3 BETA 
+
+THIS IS JUST A PUBLIC BETA TEST!
 
 ##Description
 
@@ -25,9 +27,9 @@ bash <(curl -L -Ss http://auxio.github.io/S-Type_installer.sh)
 
 ##License agreement
 
-S-Type is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0).
+S-Type is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0).
 
-So it can be used for **personal and commercial** purposes, but **please do not remove** the **powered by _(Auxio logo)_**!
+So it can be used for **personal and commercial** purposes, but **please do not remove** the **powered by ![auxio](https://raw.githubusercontent.com/auxio/S-Type/master/img/logos/auxio-logo.png)!
 
 ##Author
 
@@ -37,21 +39,21 @@ Author's website: [Auxio.eu](http://auxio.eu/).
 ##Credits
 
 This theme uses:
-* [Bootstrap v3.1.1](http://getbootstrap.com)
+* [Bootstrap v3.1.1](http://getbootstrap.com) (licence: [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE))
 * [jQuery v1.11.1](http://jquery.org)
 * [Sentora logo's](https://github.com/sentora/art)
-* [logout-icon](http://flaticons.net/)
-* [module icons](https://github.com/icons8/flat-color-icons) ([Iconpack for sentora](https://github.com/auxio/flat-color-icon-pack))
+* [flaticons](http://flaticons.net/) (logout-icon)
+* [small-n-flat module icons](http://paomedia.github.io/small-n-flat/) (Iconpack for sentora [on Sentora forums](https://github.com/auxio/small-n-flat-icon-pack) or [on github](http://forums.sentora.org/showthread.php?tid=1562&pid=10000#pid10000))
 * And lots if random things from the default Sentora theme by jasondavis.
 
 ##Getting support
 
-If you have a question of found a bug you are free to comment in [this thread](http://forums.sentora.org/showthread.php?tid=160) on the [Sentora forums](http://forums.sentora.org/).
+If you have a question of found a bug you are free to comment in [this thread](http://forums.sentora.org/showthread.php?tid=1577) on the [Sentora forums](http://forums.sentora.org/).
 
 ##Version updates
 
-1.0.0 
-* NOT JET RELEASED!
+0.0.3 BETA 
+* Start of public beta.
 
 ##WARRANTY
 
