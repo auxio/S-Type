@@ -29,7 +29,7 @@ bash <(curl -L -Ss http://auxio.github.io/S-Type_installer.sh)
 
 S-Type is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0).
 
-So it can be used for personal and commercial purposes, but do not remove or edit the .st-footer div! which contains Powered by ![sentora](https://raw.githubusercontent.com/auxio/S-Type/master/img/logos/sentora_logo_sig.png)! and Theme by ![auxio](https://raw.githubusercontent.com/auxio/S-Type/master/img/logos/auxio-logo.png)!
+So it can be used for personal and commercial purposes, but do not remove or edit the .st-footer div! which contains **Powered by ![sentora](https://raw.githubusercontent.com/auxio/S-Type/master/img/logos/sentora_logo_sig.png)** and **Theme by ![auxio](https://raw.githubusercontent.com/auxio/S-Type/master/img/logos/auxio-logo.png)**!
 
 ##Author
 
