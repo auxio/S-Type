@@ -240,7 +240,8 @@
 					<# ui_tpl_module #>
 				</div>
 				
-				<div style="clear: both;" class="text-info text-center st-copyright"><span><a href="./index.php" title="Home">Home</a> &bull; <a href="http://www.sentora.org/" target="_blank">Sentora</a> &bull; <a href="http://forums.sentora.org/" target="_blank">Forums</a> &bull; <a href="http://docs.sentora.org/" target="_blank">documentation</a></span></div>
+				<!-- Insert copyright, re-branding or whatever in the following .st-copyright div, NOT IN THE .st-footer div! -->
+				<div class="text-info text-center st-copyright"><span><a href="./index.php" title="Home">Home</a> &bull; <a href="http://www.sentora.org/" target="_blank">Sentora</a> &bull; <a href="http://forums.sentora.org/" target="_blank">Forums</a> &bull; <a href="http://docs.sentora.org/" target="_blank">documentation</a></span></div>
 			
 			</div>
 		</div>

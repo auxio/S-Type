@@ -289,6 +289,10 @@ li.module-box-body {
 	margin-bottom: 15px;*/
 }
 
+.st-copyright{
+	clear: both;
+}
+
 .text-info span a{
   color: #31708f;
 }
