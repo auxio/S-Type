@@ -36,7 +36,7 @@ You need 2 logos in the sizes: 165x40 and a scale down version 116x28 of which i
 	
 	
 /* You can add an copyright of something else to the bottom of the page. (sorry no special chars of html (jet?).. )*/
-/* alternatively you can/may also edit the st-copyright div at approximately line 249.. */
+/* alternatively you can/may also edit the st-copyright div at approximately line 243 in default.ztml.. */
 .st-copyright span {
   display: none;
 }
