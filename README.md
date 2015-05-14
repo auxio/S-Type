@@ -30,6 +30,7 @@ bash <(curl -L -Ss http://auxio.github.io/S-Type_installer.sh)
 S-Type is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0).
 
 So it can be used for **personal and commercial** purposes, but **please do not remove** the **powered by ![auxio](https://raw.githubusercontent.com/auxio/S-Type/master/img/logos/auxio-logo.png)!
+So it can be used for personal and commercial purposes, but do not remove or edit the .st-footer div! which contains Powered by ![sentora](https://raw.githubusercontent.com/auxio/S-Type/master/img/logos/sentora_logo_sig.png)! and Theme by ![auxio](https://raw.githubusercontent.com/auxio/S-Type/master/img/logos/auxio-logo.png)!
 
 ##Author
 
@@ -40,10 +41,10 @@ Author's website: [Auxio.eu](http://auxio.eu/).
 
 This theme uses:
 * [Bootstrap v3.1.1](http://getbootstrap.com) (licence: [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE))
-* [jQuery v1.11.1](http://jquery.org)
+* [jQuery v1.11.1](http://jquery.org) (licence: [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE))
 * [Sentora logo's](https://github.com/sentora/art)
-* [flaticons](http://flaticons.net/) (logout-icon)
-* [small-n-flat module icons](http://paomedia.github.io/small-n-flat/) (Iconpack for sentora [on Sentora forums](https://github.com/auxio/small-n-flat-icon-pack) or [on github](http://forums.sentora.org/showthread.php?tid=1562&pid=10000#pid10000))
+* [flaticons](http://flaticons.net/) (logout-icon) (licence: Royalty free)
+* [small-n-flat module icons](http://paomedia.github.io/small-n-flat/) (Iconpack for sentora [on Sentora forums](https://github.com/auxio/small-n-flat-icon-pack) or [on github](http://forums.sentora.org/showthread.php?tid=1562&pid=10000#pid10000)) (licence: [CC0 1.0 Universal](https://github.com/paomedia/small-n-flat/blob/master/LICENSE))
 * And lots if random things from the default Sentora theme by jasondavis.
 
 ##Getting support
