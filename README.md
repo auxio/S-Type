@@ -1,5 +1,5 @@
 # S-Type Theme
-* Version: 0.0.3 BETA 
+* Version: 1.0.0
 
 THIS IS JUST A PUBLIC BETA TEST!
 
@@ -54,6 +54,9 @@ If you have a question of found a bug you are free to comment in [this thread](h
 
 0.0.3 BETA 
 * Start of public beta.
+
+1.0.0
+* official release.
 
 ##WARRANTY
 

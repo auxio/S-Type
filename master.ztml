@@ -220,7 +220,7 @@
 						</div>
 						<div class="list-group-item">
 							<p><: Theme version :>:</p>
-							<p class="text-info text-right">0.0.3 BETA</p>
+							<p class="text-info text-right">1.0.0</p>
 						</div>
 						<div class="list-group-item">
 							<p><: Server uptime :>:</p>
