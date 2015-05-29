@@ -1,7 +1,7 @@
 # S-Type Theme
 * Version: 1.0.0
 
-THIS IS JUST A PUBLIC BETA TEST!
+If you found a module for which this theme does not have a theme icon, please tell me on the [Sentora forums](http://forums.sentora.org/showthread.php?tid=1577) and i will make it!
 
 ##Description
 
