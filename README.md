@@ -1,5 +1,5 @@
 # S-Type Theme
-* Version: 1.0.0
+* Version: 1.0.1
 
 If you found a module for which this theme does not have a theme icon, please tell me on the [Sentora forums](http://forums.sentora.org/showthread.php?tid=1577) and i will make it!
 
@@ -57,6 +57,9 @@ If you have a question of found a bug you are free to comment in [this thread](h
 
 1.0.0
 * official release.
+
+1.0.1
+* Some small stuff
 
 ##WARRANTY
 
